@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이동 끗<br>
-	<a href="/makebranch.jsp">끼요옷</a>
+	브랜치로 팔을 만들었어요~
 </body>
 </html>
