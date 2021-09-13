@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이동 끗
-	<a href="/anotherbranch.jsp">다른 이슈에서 작업중이에요</a>
+	다른 브랜치로 다른이슈에 대해서 작업중
 </body>
 </html>
