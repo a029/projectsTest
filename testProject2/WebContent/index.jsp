@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	으쌰으쌰 내가 일을 한다요
-	인생머 있나 박다보면 되겠지
+	새로운 프로젝트 만듦 굿굿 우리회사 일 많음
 </body>
 </html>
