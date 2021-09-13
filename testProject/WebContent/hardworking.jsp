@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	다른 브랜치로 다른이슈에 대해서 작업중<br>
-	<a href="hardworking.jsp">이거 만들었음</a>
+	으쌰으쌰 내가 일을 한다요
 </body>
 </html>
