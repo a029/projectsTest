@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	너가 누군지 모른다 그러치만 찾을거시다<br>
-	<a href="good_luck.jsp">굳럭</a>
+	아 괜히 입털지 말껄 무서운사람이었네;
 </body>
 </html>
