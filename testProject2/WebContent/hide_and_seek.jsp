@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	숨바꼭질이야
+	숨바꼭질이야호
 </body>
 </html>
