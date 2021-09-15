@@ -5,8 +5,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<style type="text/css">
+.goodlooking{
+	text-decoration: underline;
+}
+</style>
 </head>
 <body>
+<div class="goodlooking">
 	개쩌는 개발 중입니다
+</div>
 </body>
 </html>
