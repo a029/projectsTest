@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	난 아마 여기서 막 작업을 하고 있겠지? 근데 feature에서 나를 괴롭히겟지?(아직 테이큰아님)<br>
-	찾았다 ㅎ<br>
-	<a href="/i_dont_know.jsp">테이큰</a>
+	아 괜히 입털지 말껄 무서운사람이었네;
 </body>
 </html>
