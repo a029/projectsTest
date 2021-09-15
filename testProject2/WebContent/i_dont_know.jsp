@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	찾았다 ㅎ<br>
-	<a href="/i_dont_know.jsp">테이큰</a>
+	너가 누군지 모른다 그러치만 찾을거시다
 </body>
 </html>
