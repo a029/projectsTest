@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	숨바꼭질이야호<br>
-	<a href="i_found_you.jsp">여깃네</a>
+
 </body>
 </html>
