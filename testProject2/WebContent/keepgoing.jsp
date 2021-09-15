@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	새로운 프로젝트 만듦 굿굿 우리회사 일 많음
-	<a href="/keepgoing.jsp">개발 짱짱</a>
+	개쩌는 개발 중입니다
 </body>
 </html>
