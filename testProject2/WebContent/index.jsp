@@ -9,5 +9,6 @@
 <body>
 	새로운 프로젝트 만듦 굿굿 우리회사 일 많음
 	<a href="/keepgoing.jsp">개발 짱짱</a>
+	<a href="/t_shirts.jsp">티셔츠 판매 ㄱ</a>
 </body>
 </html>
