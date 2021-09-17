@@ -34,21 +34,27 @@
 	<tr>
 		<td>1</td>
 		<td>
-			<div class="dib">간지나는 애플티</div>
+			<div class="dib">
+				<a href="/closet/apple_tea.jsp">간지나는 애플티</a>
+			</div>
 		</td>
 		<td>티셔츠설명 쭉</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
-			<div class="dib">느낌있는 삼성티</div>
+			<div class="dib">
+				<a href="/closet/samsung_tea.jsp">느낌있는 삼성티</a>
+			</div>
 		</td>
 		<td>티셔츠설명 쭉</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
-			<div class="dib">귀여운 깃헙티</div>
+			<div class="dib">
+				<a href="/closet/github_tea.jsp">귀여운 깃헙티</a>
+			</div>
 		</td>
 		<td>티셔츠설명 쭉</td>
 	</tr>
