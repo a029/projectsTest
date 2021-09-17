@@ -7,10 +7,25 @@
 <title>Insert title here</title>
 </head>
 <body>
-	새로운 프로젝트 만듦 굿굿 우리회사 일 많음
-	<a href="/keepgoing.jsp">개발 짱짱</a>
-	<a href="/t_shirts.jsp">티셔츠 판매 ㄱ</a>
-	<!-- feature1 브랜치에서 다룰 신발 판매 -->
-	<a href="/shoe.jsp"></a>
+	<div>
+		신발 장사를 합시다
+	</div>
+	<table>
+		<tr>
+			<td>1</td>
+			<td>이미지</td>
+			<td>신발설명</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>이미지</td>
+			<td>신발설명</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>이미지</td>
+			<td>신발설명</td>
+		</tr>
+	</table>
 </body>
 </html>
