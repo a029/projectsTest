@@ -27,9 +27,12 @@
 	<div>
 		<a href="/shoe.jsp">신도 팔꺼임</a>
 	</div>
+<<<<<<< HEAD
 </div>
 <div>
 	<a href="/maple.jsp">메이플템 팜</a>
+=======
+>>>>>>> refs/remotes/origin/feature1
 </div>
 <table class="newT">
 	<colgroup>
