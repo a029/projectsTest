@@ -24,6 +24,9 @@
 <body>
 <div>
 	티셔츠를 팔거에요
+	<div>
+		<a href="/shoe.jsp">신도 팔꺼임</a>
+	</div>
 </div>
 <table class="newT">
 	<colgroup>
