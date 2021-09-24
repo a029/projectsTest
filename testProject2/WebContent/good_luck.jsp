@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	아 괜히 입털지 말껄 무서운사람이었네;
+	탈레반 : 아 괜히 입털지 말껄 무서운사람이었네;
 </body>
 </html>
