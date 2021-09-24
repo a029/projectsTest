@@ -25,6 +25,9 @@
 <div>
 	티셔츠를 팔거에요
 </div>
+<div>
+	<a href="/maple.jsp">메이플템 팜</a>
+</div>
 <table class="newT">
 	<colgroup>
 		<col width="10%">
