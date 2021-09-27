@@ -27,6 +27,16 @@
 			<td>좋음</td>
 		</tr>
 		<tr>
+			<td>4</td>
+			<td>분노한 자쿰의 벨트</td>
+			<td>골클벨로 토드 해야하남</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
