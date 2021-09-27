@@ -12,5 +12,6 @@
 	<a href="/t_shirts.jsp">티셔츠 판매 ㄱ</a>
 	<!-- feature1 브랜치에서 다룰 신발 판매 -->
 	<a href="/shoe.jsp"></a>
+	<a href="/baseball.jsp">랴구꼐임</a>
 </body>
 </html>
