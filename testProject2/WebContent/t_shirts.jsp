@@ -65,5 +65,7 @@
 		<td>티셔츠설명 쭉</td>
 	</tr>
 </table>
+<a href="/home.Home">집서블릿 추가</a>
+<a href="/no.Home">없는 주소</a>
 </body>
 </html>
