@@ -5,53 +5,58 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<script type="text/javascript">
-var pool = [];
-var answerPool = [];
-
-var zeroToNumArr = function(target, length){
-	for ( var i = 0 ; i < length ; i++){
-		target.push(i);
-	};
-	//math.random(); //0<=x<1;
+<style type="text/css">
+#gameTable{
+	width: 31rem;
 }
-
-zeroToNumArr(pool, 10); //숫자 10개 담기
-var selectNumber = function(length){
-	for (var i = 0 ; i < length ; i++) {
-		var pickRand = Math.floor(Math.random() * pool.length);
-		answerPool.push(pool.splice(pickRand, 1));
-	};
-};
-selectNumber(4); //answerpool에 정답번호 4개 넣음
-
-//alert(answerPool +"\n"+pool);
-
-var giveNumber;
-//alert(giveNumber.length);
-function checkNumber4(numbers){
-	if(numbers.length != 4){
-		return false;
-	}
-	if(isNaN(Number(numbers))){
-		return false;
-	}
-	else{
-		return true;
-	}
-}
-
-do {
-	giveNumber = prompt("숫자 OOOO");
-}while(!checkNumber4(giveNumber));
-</script>
+</style>
+<script type="text/javascript" src="/js/baseball.js?ver=1"></script>
 </head>
 <body>
 <table id="gameTable">
+	<colgroup>
+		<col width="15rem;">
+		<col width="15rem;">
+	</colgroup>
+	<thead>
 	<tr>
 		<td>입력</td>
 		<td>결과</td>
 	</tr>
+	</thead>
+	<tbody id="gameBody">
+	
+	</tbody>
 </table>
+<button type="button" id="PButton" onclick="solveProblem(answerPool);">문제풀기</button>
+<button type="button" onclick="viewAnswer();">정답보기</button>
+<button type="button" onclick="newGame();">새로운 게임</button>
+<button type="button" onclick="sweapTable();">테이블밀기</button>
+
+
+<script type="text/javascript">
+var pool = [];
+var answerPool = [];
+
+function newGame(){
+	pool = zeroToNumArr(10); //숫자 10개 담기
+	answerPool = selectNumber(pool, 4); //answerpool에 정답번호 4개 넣음
+	document.getElementById("PButton").disabled = false;
+}
+
+pool = zeroToNumArr(10); //숫자 10개 담기
+answerPool = selectNumber(pool, 4); //answerpool에 정답번호 4개 넣음
+
+//alert(answerPool +"\n"+pool);
+
+
+//alert(giveNumber.length);
+
+//alert(table.getAttribute("class"));
+
+function viewAnswer(){
+	alert(answerPool);
+}
+</script>
 </body>
 </html>
